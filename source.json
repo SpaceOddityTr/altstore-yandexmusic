@@ -5,6 +5,7 @@
     {
       "name": "Yandex Music",
       "bundleIdentifier": "ru.yandex.mobile.music",
+      "marketplaceID": "ru.yandex.mobile.music",
       "developerName": "Yandex LLC",
       "subtitle": "Официальный клиент",
       "version": "7.27",
