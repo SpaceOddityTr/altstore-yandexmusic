@@ -1,0 +1,18 @@
+{
+  "name": "My Yandex Music Source",
+  "identifier": "com.<username>.yandexmusic.source",
+  "apps": [
+    {
+      "name": "Yandex Music",
+      "bundleIdentifier": "ru.yandex.mobile.music",
+      "developerName": "Yandex LLC",
+      "subtitle": "Официальный клиент",
+      "version": "7.27",
+      "versionDate": "2024-05-25",
+      "downloadURL": "https://github.com/SpaceOddityTr/altstore-yandexmusic/releases/download/v7.27/ru.yandex.mobile.music_7.27_und3fined.ipa",
+      "size": 239000000,
+      "iconURL": "",
+      "localizedDescription": "Музыка, подкасты, плейлисты Яндекс."
+    }
+  ]
+}
